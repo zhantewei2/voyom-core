@@ -11,7 +11,7 @@
   "devDependencies": {},
   "dependencies": {
     "@voyo/core": "^0.0.1-alpha.2",
-    "@voyom/vue-router": "^0.0.1-alpha.1",
+    "@voyom/vue-router": "^1.0.0",
     "@ztwx/form": "^1.0.0",
     "@ztwx/utils": "^1.4.0",
     "ceaser-easing": "^1.0.1",
