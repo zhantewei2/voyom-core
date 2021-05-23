@@ -1,6 +1,6 @@
 {
   "name": "@voyom/core",
-  "version": "1.0.0",
+  "version": "0.0.1-alpha.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,17 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
+    "@voyo/core": "^0.0.1-alpha.2",
+    "@voyom/vue-router": "^0.0.1-alpha.1",
+    "@ztwx/form": "^1.0.0",
+    "@ztwx/utils": "^1.4.0",
+    "ceaser-easing": "^1.0.1",
+    "vue": "^3.0.0",
+    "vue-class-component": "^8.0.0-0",
+    "vue-router": "^4.0.8",
+    "vuex": "^4.0.0-0",
     "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.14.2",
     "@babel/runtime-corejs3": "^7.14.0",
@@ -43,16 +53,5 @@
     "webpack-dev-server": "~3.11.2",
     "webpack-merge": "~5.7.3",
     "eslint-plugin-vue": "^7.9.0"
-  },
-  "dependencies": {
-    "@voyo/core": "^0.0.1-alpha.2",
-    "@voyom/vue-router": "^0.0.1-alpha.1",
-    "@ztwx/form": "^1.0.0",
-    "@ztwx/utils": "^1.4.0",
-    "ceaser-easing": "^1.0.1",
-    "vue": "^3.0.0",
-    "vue-class-component": "^8.0.0-0",
-    "vue-router": "^4.0.8",
-    "vuex": "^4.0.0-0"
   }
 }
