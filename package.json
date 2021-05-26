@@ -8,7 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "url-loader": "^4.1.1"
+  },
   "dependencies": {
     "@voyo/core": "^0.0.1-alpha.2",
     "@voyom/vue-router": "^3.0.0-alpha.1",
