@@ -16,7 +16,7 @@
     "@babel/runtime-corejs3": "^7.14.0",
     "@typescript-eslint/eslint-plugin": "^4.24.0",
     "@typescript-eslint/parser": "^4.24.0",
-    "@voyo/core": "^0.0.1-alpha.2",
+    "@voyo/core": "^0.0.1-alpha.4",
     "@voyom/vue-router": "^3.0.0-alpha.1",
     "@vue/compiler-sfc": "^3.0.11",
     "@vue/eslint-config-prettier": "^6.0.0",
