@@ -1,7 +1,7 @@
 {
   "name": "@voyom/core",
   "version": "0.0.4",
-  "description": "voyo micro frontend for vue2",
+  "description": "voyo micro front@end for vue2",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
     "@vue/compiler-sfc": "^3.0.11",
     "@vue/eslint-config-prettier": "^6.0.0",
     "@vue/eslint-config-typescript": "^7.0.0",
-    "@ztwx/form": "^1.0.0",
+    "@ztwx/form": "^2.0.0",
     "@ztwx/utils": "^1.5.5",
     "babel-loader": "^8.2.2",
     "cache-loader": "^4.1.0",
