@@ -1,6 +1,6 @@
 {
   "name": "@voyom/core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "voyo micro front@end for vue2",
   "main": "lib/index.js",
   "scripts": {
