@@ -1,6 +1,6 @@
 {
   "name": "@voyom/core",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "voyo micro front@end for vue2",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "conditional-compile-loader": "^1.0.8"
+  },
   "dependencies": {
     "@babel/core": "^7.14.3",
     "@babel/plugin-transform-runtime": "^7.14.3",
